@@ -43,22 +43,6 @@
 </p>
 
 
-#
-
-
-
-<p align="center">
-  <a>
-    <img height="146" width="171" src="https://github.com/Singh-csm/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Singh-csm&theme=dark&hide_border=true"/>
-    <img height="146" width="171" src="https://github.com/Singh-csm/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p>
-
-#
-
-
-
 
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
