@@ -124,7 +124,7 @@ html, CSS, javascript, mongodb, python, react
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif" >
+  <img align="right" height="230px" width="300px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif" >
 </a>
 
 <br>
