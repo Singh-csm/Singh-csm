@@ -131,14 +131,6 @@ html, CSS, javascript, mongodb, python, react
 <br>
 
 <!--START_SECTION:waka-->
-<h1>
-  <a target="_blank">
-    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue" height="25px" style="max-width:100%;">
-  </a>
-</h1>
-
-
-
 
 
 
