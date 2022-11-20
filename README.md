@@ -131,7 +131,11 @@ html, CSS, javascript, mongodb, python, react
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
+<h1>
+  <a target="_blank">
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
 
 
@@ -142,11 +146,10 @@ html, CSS, javascript, mongodb, python, react
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Backend Developer Trainee | [FunctionUp](https://www.linkedin.com/company/functionup/mycompany/)) | Nov 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
+| Backend Developer Trainee | [FunctionUp](https://www.linkedin.com/company/functionup/mycompany/) | Nov 2022 - Present |
+| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | 
+| Open source mentor | [WoC](https://winterofcode.com/) | 
+| Quality Engineer | [Varroc Polymor](https://varroc.com/) | 
 
 
 
