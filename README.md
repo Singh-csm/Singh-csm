@@ -117,11 +117,12 @@ html, CSS, javascript, mongodb, python, react
 
 
 #
-
+<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
+  <br>
 
 <a target="_blank">
   <img align="right" height="230px" width="300px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif" >
