@@ -132,9 +132,15 @@ html, CSS, javascript, mongodb, python, react
 <br>
 
 <!--START_SECTION:waka-->
+  <details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆ork Experience : </strong>
+</summary>
+  <br>
 
 
-
+<div align="center" >
 ## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
@@ -144,12 +150,18 @@ html, CSS, javascript, mongodb, python, react
 | Open source mentor | [WoC](https://winterofcode.com/) | 
 | Quality Engineer | [Varroc Polymor](https://varroc.com/) | 
 
-
+</div>
 
 
 
 
 <!--END_SECTION:waka-->
+    <details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>onnect With Me : </strong>
+</summary>
+  <br>
 
 
 
