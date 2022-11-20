@@ -27,7 +27,12 @@ html, CSS, javascript, mongodb, python, react
 
 
 
-
+<details open="end">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>About Me : </strong>
+</summary>
+  <br>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -60,7 +65,12 @@ html, CSS, javascript, mongodb, python, react
 </p>
 
 
-
+<details open="end">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Language and Tools : </strong>
+</summary>
+  <br>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
@@ -132,7 +142,7 @@ html, CSS, javascript, mongodb, python, react
 <br>
 
 <!--START_SECTION:waka-->
-  <details open="">
+  <details open="start">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆ork Experience : </strong>
