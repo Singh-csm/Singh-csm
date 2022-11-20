@@ -2,11 +2,11 @@
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
 </div>
 
-  <h2>नमस्ते (Namaste)🙏🏻, I'm Govind Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+  <h2>🙏🏻, I'm Chandrashekha Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=GovindSingh9447.GovindSingh9447)
-[![Github](https://img.shields.io/github/followers/GovindSingh9447?label=Follow&style=social)](https://github.com/GovindSingh9447)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Singh-csm.singh-csm)
+[![Github](https://img.shields.io/github/followers/Singh-csm?label=Follow&style=social)](https://github.com/Singh-csm)
 
 
 
@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on GRANTHAGRA-'Android Application for Students'
+- 🔭 I’m Trainee of FunctionUp (Backend Development)
 
-- 🌱 I’m currently learning Cloud 
+- 🌱 I’m currently learning Web Development. 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about DevOps, AWS, GCP, Android, Java, UI/UX Designs, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about DevOps, AWS, GCP, Android, Javascript, UI/UX Designs, Freelancing Opportunites, Open Source 
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
@@ -36,26 +36,26 @@
 
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=GovindSingh9447.GovindSingh9447" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=brightgreen"> •    -->
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Singh-csm.Singh-csm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Singh-csm&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <p align="center">
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FGovindSingh9447" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FSingh-csm" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
 
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/GovindSingh9447)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Singh-csm&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Singh-csm)
 
 <p align="center">
   <a>
-    <img height="146" width="171" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh9447&theme=dark&hide_border=true"/>
-    <img height="146" width="171" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/right.png">
+    <img height="146" width="171" src="https://github.com/Singh-csm/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Singh-csm&theme=dark&hide_border=true"/>
+    <img height="146" width="171" src="https://github.com/Singh-csm/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
@@ -104,17 +104,17 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <a href="https://github.com/Singh-csm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Singh-csm&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/Singh-csm">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-csm&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Singh-csm&theme=react-dark&hide_border=true&area=true)
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
@@ -148,9 +148,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 19 Private Repositories  
+
  > 
 **I'm a Night 🦉** 
 ```text
@@ -167,7 +165,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Associate Software Developer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
+| Backend Developer Trainee | [FunctionUp](https://www.linkedin.com/company/functionup/mycompany/)) | Nov 2022 - Present |
 | Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
 | Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
 | Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
@@ -177,7 +175,7 @@
 
 
 
- Last Updated on 10/03/2022
+
 <!--END_SECTION:waka-->
 
 
@@ -191,11 +189,11 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/chandrashekhar-singh-mourya-6bb624103/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/chandrashekhar-singh-mourya-6bb624103/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
@@ -226,9 +224,8 @@
 
 
 -----
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+**Credits**: [Singh-csm](https://github.com/Singh-csm)
 
-**Last Edited on**: 02/01/2022
 
 
 
