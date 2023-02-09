@@ -188,7 +188,7 @@ html, CSS, javascript, mongodb, python, react
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.linkedin.com/in/chandrashekhar-singh-mourya-6bb624103/" target="_blank">
+  <a href="https://www.instagram.com/singh_csm/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
