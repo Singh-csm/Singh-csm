@@ -1,8 +1,15 @@
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Singh-csm.Singh-csm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Singh-csm&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 <div align="center">
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
 </div>
 
   <h2>🙏🏻, I'm Chandrashekha Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+  
   
   A Dynamic, dedicated and determined individual who seeks to reach the maximum potential in all aspects of my life. Both hardworking and proactive, I enjoy giving 100% to all I do, including actively seeking out opportunities that may benefit me or seizing the day as it comes. 
 
