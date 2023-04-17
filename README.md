@@ -64,8 +64,7 @@ html, CSS, javascript, mongodb, python, react
 
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Singh-csm.Singh-csm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Singh-csm&style=flat&color=brightgreen"> •   
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Singh-csm.Singh-csm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
