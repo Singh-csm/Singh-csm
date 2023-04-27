@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
+<iframe src="https://giphy.com/embed/DCMZYL14SScKmQrWjK" width="373" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meetingroom-classo-kantoortechnologie-DCMZYL14SScKmQrWjK">via GIPHY</a></p>
 </div>
 
   <h2>🙏🏻, I'm Chandrashekha Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
