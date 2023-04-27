@@ -194,7 +194,7 @@ html, CSS, javascript, mongodb, python, react
   </a>
   
   <a href="https://www.instagram.com/singh_csm/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+    <code>FaInstagramSquare</code>
   </a>
     
 </p>
