@@ -194,7 +194,7 @@ html, CSS, javascript, mongodb, python, react
   </a>
   
   <a href="https://www.instagram.com/singh_csm/" target="_blank">
-    <code>FaInstagramSquare</code>
+    <code><FaInstagramSquare/> </code>
   </a>
     
 </p>
