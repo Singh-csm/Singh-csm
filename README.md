@@ -194,7 +194,7 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/chandrashekhar-singh-mourya-6bb624103/" target="_blank">
+  <a href="https://www.linkedin.com/in/singhcsm/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
@@ -202,6 +202,9 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
+    <a href="https://leetcode.com/singh-csm/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/leetcode.svg"/></code>
+  </a>
 </p>
 <br/>
 
