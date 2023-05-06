@@ -13,9 +13,12 @@
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=expressjs,mongodb,expressjs,mysql,firebase,redux,regex,postman,netlify,vercel" /></a>
-  <hr></hr>
+</p>
+<hr></hr>
+<p align="center">
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,mui,nodejs" /></a>
+
 </p>
 
   <h2>🙏🏻, I'm Chandrashekhar Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
