@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Singh-csm&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
   <a href="https://archiveprogram.github.com/">
     <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
@@ -227,4 +226,4 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
 
 </div>
 
-
+[![](https://visitcount.itsvg.in/api?id=Singh-csm&icon=0&color=0)](https://visitcount.itsvg.in)
