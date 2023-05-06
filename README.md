@@ -1,14 +1,24 @@
 <p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
+
+<p align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,mui,nodejs,expressjs,mongodb,expressjs,mysql,firebase,redux,regex,postman,netlify,vercel" /></a>
+<img src="https://skillicons.dev/icons?i=expressjs,mongodb,expressjs,mysql,firebase,redux,regex,postman,netlify,vercel" /></a>
+  <hr></hr>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,mui,nodejs" /></a>
 </p>
 
-  <h2>🙏🏻, I'm Chandrashekha Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+  <h2>🙏🏻, I'm Chandrashekhar Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
   
   
   A Dynamic, dedicated and determined individual who seeks to reach the maximum potential in all aspects of my life. Both hardworking and proactive, I enjoy giving 100% to all I do, including actively seeking out opportunities that may benefit me or seizing the day as it comes. 
@@ -24,12 +34,6 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
 
 
 📫 How to reach me csm8107@gmail.com
-
-Languages and Tools:
-html, CSS, javascript, mongodb, python, react
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Singh-csm.singh-csm)
 [![Github](https://img.shields.io/github/followers/Singh-csm?label=Follow&style=social)](https://github.com/Singh-csm)
 
 
@@ -64,14 +68,13 @@ html, CSS, javascript, mongodb, python, react
 #
 
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Singh-csm.Singh-csm" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •   
+<p align="center"> 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 
-<details open="end">
+<!-- <details open="end">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>Language and Tools : </strong>
@@ -105,7 +108,7 @@ html, CSS, javascript, mongodb, python, react
 
 <br/>
 
-#
+# -->
 
 
 <details open="">
@@ -195,7 +198,7 @@ html, CSS, javascript, mongodb, python, react
   </a>
   
   <a href="https://www.instagram.com/singh_csm/" target="_blank">
-    <code><FaInstagramSquare/> </code>
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
 </p>
