@@ -3,7 +3,7 @@
     <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
   </a>
 </p>
-
+  <h2 align="center">🙏🏻, I'm Chandrashekhar Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Singh-csm?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Singh-csm?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
@@ -21,9 +21,7 @@
 
 </p>
 
-  <h2>🙏🏻, I'm Chandrashekhar Singh Mourya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-  
-  
+
   A Dynamic, dedicated and determined individual who seeks to reach the maximum potential in all aspects of my life. Both hardworking and proactive, I enjoy giving 100% to all I do, including actively seeking out opportunities that may benefit me or seizing the day as it comes. 
 
 As a first generation scholar, I would like to say I am familiar to the views of those who may view the world in a different light. My interests include looking at how the world can be a more inclusive place (especially regarding protected characteristics) and allowing those who may not have access to certain opportunities gain such fairer access. In doing so, I am a strong advocate of equality, fair opportunity and inclusivity. I am seeking a career path in such field, and would love to connect with anyone regarding this work. 
