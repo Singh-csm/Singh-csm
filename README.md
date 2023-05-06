@@ -12,7 +12,7 @@
 <!--- language icons --->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=expressjs,mongodb,expressjs,mysql,firebase,redux,regex,postman,netlify,vercel" /></a>
+<img src="https://skillicons.dev/icons?i=expressjs,mongodb,mysql,firebase,redux,regex,postman,netlify,vercel" /></a>
 </p>
 <hr></hr>
 <p align="center">
