@@ -226,4 +226,4 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=singh-csm&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=singh-csm&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
