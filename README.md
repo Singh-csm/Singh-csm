@@ -51,7 +51,7 @@ I like to teach and mentor others who are in need. Also enjoy travelling, drivin
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m Trainee at FunctionUp (Backend Development)
+- 🔭 I’m Full Stack Developer
 
 - 🌱 I’m currently learning Web Development. 
 
